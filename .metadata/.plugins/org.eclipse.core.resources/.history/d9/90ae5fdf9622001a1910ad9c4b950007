@@ -1,0 +1,18 @@
+{
+"is_group_msg": 0,   it mark message to group message, 0 is group message, and 1 is not group message
+"msg_type": "xt", message type. 
+"target_device": "mobile", 
+"msg_content": "", 
+"msg_id": 1576741124269, 
+"target_user": 0, 
+"global_id": 0, 
+"to_user": 0, 
+"msg_time": 1576741191924.9312, 
+"session": "4391c0a3157862c46ffe3818daa4a331", 
+"version": 0, 
+"from_user": 558, 
+"device": "mobile", 
+"is_disturb": 1,
+"group_id": 0, 
+"gate_no": ""
+}

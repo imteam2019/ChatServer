@@ -1,0 +1,9 @@
+服务器开发说明
+1，install mysql database and open the port of mysql to the internet, because we need the port when develop and debug in internet.
+you need to close the port 3306 if deploy to a real environment
+
+二，安装redis,对外开放redis端口, 6379， 正式部署关掉对外
+2, install redis and open the port of redis, ohter is to do the same with mysql
+
+三，安装python3,并且根据requirement.txt安装相应依赖库
+pip install -r requirement.txt

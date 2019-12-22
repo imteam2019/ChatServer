@@ -1,0 +1,23 @@
+{
+"is_group_msg": 0,   
+#it mark message to group message, 0 is group message, and 1 is not group message
+"msg_type": "xt", 
+#this member is msg type, msg type list: 'text_msg', 'picture_msg', 'vidio_msg', 'audio_msg', 'file'
+"target_device": "mobile",
+#this member stands for target device，target device includes 'android', 'ios', 'pc', 'mobile' and 'web'
+#this member is only used by server, client doesn't need to use.
+"msg_content": "", 
+#this member is message body, all contents are filled this member.
+"msg_id": 1576741124269, 
+"target_user": 0, 
+"global_id": 0, 
+"to_user": 0, 
+"msg_time": 1576741191924.9312, 
+"session": "4391c0a3157862c46ffe3818daa4a331", 
+"version": 0, 
+"from_user": 558, 
+"device": "mobile", 
+"is_disturb": 1,
+"group_id": 0, 
+"gate_no": ""
+}
